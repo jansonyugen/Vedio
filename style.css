@@ -1,0 +1,32 @@
+html{
+    background-image: url(003.jpg);
+}
+
+
+body{
+}
+h1{
+    text-align: center;
+}
+.art{
+    text-align: left;
+}
+.pcc{
+    text-align: center;
+}
+.ved{
+    width: 685px;
+    height: 444px; 
+    clear:both; 
+    display: block; 
+    margin: 0 auto;
+    margin-top: 0 auto;
+}
+article{
+    text-align: center;
+}
+footer{
+    color: gray;
+    margin: 0 auto;
+    text-align: right;
+}
